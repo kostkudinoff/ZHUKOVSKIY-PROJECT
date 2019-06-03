@@ -1,4 +1,4 @@
-## Василий Андреевич Жуковский. Реализация романтических мотивов в корпусе баллад 
+## <center> Василий Андреевич Жуковский. Реализация романтических мотивов в корпусе баллад 
 
 You can use the [editor on GitHub](https://github.com/kostkudinoff/zhukovskiy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
