@@ -33,7 +33,7 @@
 ### Список анализируемых баллад
 
 ```markdown
-![корпус1](corpus1.png)
+![корпус1](corpus1.jpg)
 ```
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kostkudinoff/zhukovskiy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
