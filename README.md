@@ -41,3 +41,6 @@
 ![антконк](antconc.jpg)
 
 #### Конь
+
+![коньконк](konconc1.jpg)
+![коньuhfa](kongraph.jpg)
