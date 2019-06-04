@@ -44,3 +44,50 @@
 
 ![коньконк](konconc1.jpg)
 ![коньграф](kongraph.jpg)
+
+#### Небо
+
+![небоконк1](neboconc1.jpg)
+![небоконк2](neboconc2.jpg)
+![небоконк3](neboconc3.jpg)
+![небограф](nebograph.jpg)
+
+#### Око
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Взор
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Сердце
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Милый
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Лес
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Святой
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Бог
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
+
+#### Волна
+
+![коньконк](konconc1.jpg)
+![коньконк](konconc1.jpg)
