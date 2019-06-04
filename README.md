@@ -43,4 +43,4 @@
 #### Конь
 
 ![коньконк](konconc1.jpg)
-![коньuhfa](kongraph.jpg)
+![коньграф](kongraph.jpg)
