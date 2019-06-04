@@ -54,40 +54,56 @@
 
 #### Око
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![ококонк1](okoconc1.jpg)
+![ококонк2](okoconc2.jpg)
+![ококонк3](okoconc3.jpg)
+![окограф](okograph.jpg)
 
 #### Взор
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![взорконк1](vzorconc1.jpg)
+![взорконк2](vzorconc2.jpg)
+![взорконк3](vzorconc3.jpg)
+![взорграф](vzorgraph.jpg)
 
 #### Сердце
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![сердцеконк1](cerdceconc1.jpg)
+![сердцеконк2](cerdceconc2.jpg)
+![сердцеконк3](cerdceconc3.jpg)
+![сердцеграф](cerdcegraph.jpg)
 
 #### Милый
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![милыйконк1](miliyconc1.jpg)
+![милыйконк2](miliyconc2.jpg)
+![милыйконк3](miliyconc3.jpg)
+![милыйграф](miliygraph.jpg)
 
 #### Лес
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![лесконк1](lesconc1.jpg)
+![лесконк2](lesconc2.jpg)
+![лесконк3](lesconc3.jpg)
+![лесграф](lesgraph.jpg)
 
 #### Святой
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![святойконк1](svatoiconc1.jpg)
+![святойконк2](svatoiconc2.jpg)
+![святойконк3](svatoiconc3.jpg)
+![святойграф](svatoigraph.jpg)
 
 #### Бог
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![богконк1](bogconc1.jpg)
+![богконк2](bogconc2.jpg)
+![богконк3](bogconc3.jpg)
+![богграф](boggraph.jpg)
 
 #### Волна
 
-![коньконк](konconc1.jpg)
-![коньконк](konconc1.jpg)
+![волнаконк1](volnaconc1.jpg)
+![волнаконк2](volnaconc2.jpg)
+![волнаконк3](volnaconc3.jpg)
+![волнаграф](volnagraph.jpg)
