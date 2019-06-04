@@ -33,8 +33,8 @@
 ### Список анализируемых баллад
 
 ![корпус1](corpus1.jpg)
-![корпус2](corpus2.jpg)
-![корпус3](corpus3.jpg)
+![корпус2](corpus2.jpeg)
+![корпус3](corpus3.jpeg)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kostkudinoff/zhukovskiy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
