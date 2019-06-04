@@ -33,7 +33,6 @@
 ### Список анализируемых баллад
 
 ```markdown
-<img src="corpus.jpg" alt="корпус 1">
 ![корпус 1](corpus1.jpg)
 ```
 
